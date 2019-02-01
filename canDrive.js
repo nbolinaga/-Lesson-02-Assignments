@@ -13,7 +13,6 @@ for (let i=0; i < 5; i++)
 // IF/ELSE CHECK WITH STRING INTERPOLATION
 if (ages[i] > DrivingAge){
   console.log( `${names[i]} has been driving for ${ages[i] - DrivingAge} years.`)
-}
-else{
+} else {
   console.log(`${names[i]} would be able to drive in ${DrivingAge - ages[i]} years.`)
 }
