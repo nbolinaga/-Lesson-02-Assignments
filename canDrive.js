@@ -3,8 +3,8 @@
 // Decided to use arrays to do more than one driver with only one if/else statement, idk if this is the right way but it worked.
 
 // ARRAYS OF NAMES AND AGES
-let names = ['Nicolas Bolinaga','John Doe','Han Solo','Bill Gates','Harry Potter'];
-let ages = [19,14,2,63,35];
+let names = ['Nicolas Bolinaga', 'John Doe', 'Han Solo', 'Bill Gates', 'Harry Potter'];
+let ages = [19, 14, 2, 63, 35];
 const DrivingAge = (16)
 
 // LOOP TO CHECK EACH INDIVIDUAL
